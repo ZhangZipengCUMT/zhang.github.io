@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Technical University of Munich, 2026 (expected)
+* M.S. in China University of Mining and Technology, 2022
+* B.S. in China University of Mining and Technology, 2018
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -40,6 +41,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+-->
 
 Publications
 ======
