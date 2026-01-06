@@ -2,7 +2,7 @@
 title: "Deep learning with TabNet: rapid coal ash content estimation via X-ray fluorescence"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-04-15-paper-3
+permalink: /publication/2024-04-15-paper-3-IJCPU
 excerpt: ''
 date: 2024-04-15
 venue: 'International Journal of Coal Preparation and Utilization'
