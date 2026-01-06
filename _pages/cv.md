@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Technical University of Munich, 2026 to 2030 (expected)
+* Ph.D in Chair of Health Informatics (CHI), Technical University of Munich, 2026 to 2030 (expected)
 * M.S. in School of Mechanical Engineering, China University of Mining and Technology, 2022-2025 (Outstanding Graduate)
 * B.S. in SunYue Qi Honor College, China University of Mining and Technology, 2018-2022 (Dual Degree in Safety Engineering and Computer Science and Engineering, Honorary Degree)
 
