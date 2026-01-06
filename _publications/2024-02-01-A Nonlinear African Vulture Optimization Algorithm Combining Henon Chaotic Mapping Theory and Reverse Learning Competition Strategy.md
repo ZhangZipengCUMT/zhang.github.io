@@ -2,7 +2,7 @@
 title: "A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-paper-ESWA-number-1
+permalink: /publication/2024-02-01-A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaotic Mapping Theory and Reverse Learning Competition Strategy
 excerpt: ''
 date: 2024-02
 venue: 'Expert Systems with Applications'
