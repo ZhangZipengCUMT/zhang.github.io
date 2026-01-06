@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-02-01-paper-title-number-1
 excerpt: 'Evolution_Computing'
-date: 2024-02
+date: 2024-02-01
 venue: 'Expert Systems with Applications'
 slidesurl: 'https://academicpages.github.io/files/paper-1-ESWA-Evolution_Computing.pdf'
 paperurl: 'https://academicpages.github.io/files/paper-1-ESWA-Evolution_Computing.pdf'
