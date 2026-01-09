@@ -3,7 +3,7 @@ title: "A Nonlinear African Vulture Optimization Algorithm Combining Henon Chaot
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-01-paper-1-ESWA-Evolution_Computing
-excerpt: 'This paper proposes HWEAVOA, a nonlinear African vulture optimization algorithm integrating Henon chaotic mapping, elite population strategy, nonlinear adaptive inertial weight, and reverse learning competition to address AVOA's limitations in complex multimodal problems, demonstrating faster/smoother convergence, superior convergence speed, optimization ability, solution stability, and competitive overall performance in swarm intelligence algorithms.'
+excerpt: 'This paper proposes HWEAVOA, a nonlinear African vulture optimization algorithm integrating Henon chaotic mapping, elite population strategy, nonlinear adaptive inertial weight, and reverse learning competition to address AVOA limitations in complex multimodal problems, demonstrating faster/smoother convergence, superior convergence speed, optimization ability, solution stability, and competitive overall performance in swarm intelligence algorithms.'
 date: 2024-02-01
 venue: 'Expert Systems with Applications'
 slidesurl: ''
