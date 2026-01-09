@@ -364,6 +364,37 @@ def parse_portfolio(portfolio_dir):
     
     return portfolio
 
+# todo
+def parse_education(education_dir):
+    """Parse education items from the _education directory."""
+    education = []
+    
+    if not os.path.exists(education_dir):
+        return education
+    
+    for education_file in sorted(glob.glob(os.path.join(education_dir, "*.md"))):
+        with open(education_file, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Extract front matter
+        front_matter_match = re.match(r'^---\s*(.*?)\s*---', content, re.DOTALL)
+        if front_matter_match:
+            front_matter = yaml.safe_load(front_matter_match.group(1))
+            
+            # Extract education details
+            education_entry = {
+                "name": front_matter.get('title', ''),
+                "category": front_matter.get('collection', 'portfolio'),
+                "date": front_matter.get('date', ''),
+                "url": front_matter.get('permalink', ''),
+                "description": front_matter.get('excerpt', '')
+            }
+            
+            education.append(education_entry)
+    
+    return education
+    
+
 def create_cv_json(md_file, config_file, repo_root, output_file):
     """Create a JSON CV from markdown and other repository data."""
     # Parse the markdown CV
