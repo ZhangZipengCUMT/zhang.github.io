@@ -2,7 +2,7 @@
 title: "Bachelor of Safety Engineering"
 collection: education
 type: "Undergraduate course"
-permalink: /education/2018-Bachelor.md
+permalink: /education/2018-Bachelor
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
