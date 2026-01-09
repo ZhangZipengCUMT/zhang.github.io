@@ -3,9 +3,9 @@ title: "Bachelor of Safety Engineering"
 collection: education
 type: "Undergraduate course"
 permalink: /education/2018-Bachelor
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "SunYue Qi Honor College, China University of Mining and Technology"
+date: 2018-09-01
+location: "XuZhou, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
