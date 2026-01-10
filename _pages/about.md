@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "SECOND TO NONE"
+title: "Intelligence: A Modern Fairy Tale About Philosophy"
 author_profile: true
 redirect_from: 
   - /about/
