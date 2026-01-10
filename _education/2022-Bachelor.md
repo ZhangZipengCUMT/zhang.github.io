@@ -2,9 +2,9 @@
 title: "Bachelor of Safety Engineering"
 collection: education
 type: "Undergraduate course"
-permalink: /education/2018-Bachelor
+permalink: /education/2022-Bachelor
 venue: "SunYue Qi Honor College, China University of Mining and Technology"
-date: 2018-09-01
+date: 2022-06-16
 location: "XuZhou, China"
 ---
 
