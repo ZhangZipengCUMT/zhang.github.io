@@ -2,9 +2,9 @@
 title: "Bachelor of Computer Science and Technology"
 collection: education
 type: "Undergraduate"
-permalink: /education/2019-Bachelor-CS
+permalink: /education/2022-Bachelor-CS
 venue: "School of Computer Science and Technology, China University of Mining and Technology"
-date: 2019-09-01
+date: 2022-06-17
 location: "XuZhou, China"
 ---
 
