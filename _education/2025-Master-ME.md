@@ -8,7 +8,7 @@ date: 2025-06-17
 location: "XuZhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Nomination for the China University of Mining and Technology's First Grand Prize Scholarship (Top 0.3%), National Scholarship
 
 Heading 1
 ======
