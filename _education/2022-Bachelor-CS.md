@@ -8,13 +8,5 @@ date: 2022-06-17
 location: "XuZhou, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Only over thirty students across the entire university have been awarded the dual degree in Computer Science and Technology.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
