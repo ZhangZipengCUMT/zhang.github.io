@@ -7,14 +7,13 @@ venue: "SunYue Qi Honor College, China University of Mining and Technology"
 date: 2022-06-16
 location: "XuZhou, China"
 ---
+academic advisor: Weiguang An, HeTang Wang
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Academic Competition Awards
 ======
+During undergraduate studies earned over thirty provincial-level and national-level academic/subject competition awards (not listed individually).
 
-Heading 2
+ScholarShips
 ======
-
-Heading 3
-======
+Awarded four university-level scholarships during academic tenure.
