@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
+Research Interest: Spiking Neural Network, FPGA implmentation, Neuromorphic Chip, Brain Science
 ![](/images/temp_brain.jpg)
 
