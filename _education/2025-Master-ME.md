@@ -2,9 +2,9 @@
 title: "Master of Mechanical Engineering"
 collection: education
 type: "Postgraduate"
-permalink: /education/2022-Master-ME
+permalink: /education/2025-Master-ME
 venue: "School of Mechanical and Electrical Engineering, China University of Mining and Technology"
-date: 2022-09-01
+date: 2025-06-17
 location: "XuZhou, China"
 ---
 
